@@ -1,0 +1,12 @@
+[
+    {"nome": "Bolo",
+    "preco": 15.99,
+    "quantidade": 10
+    },
+
+    {"nome": "Croissant",
+    "preco": 3.00,
+    "quantidade": 50
+    }
+
+]
