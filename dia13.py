@@ -177,3 +177,5 @@ else:
         for aluno in notas_alunos:
             escritor.writerow(aluno)
     print("Médias calculadas e salvas no arquivo 'medias.csv'.")
+    
+    
